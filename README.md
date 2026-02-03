@@ -5,10 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/surajittp">
-    <img src="https://img.shields.io/badge/GitHub-surajittp-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-surajittp-yellow?style=flat&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/student-navy?style=flat" />
   <img src="https://img.shields.io/badge/Freelancer-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Professional%20Web%20Development-success?style=flat" />
+  <img src="https://img.shields.io/badge/%20Web%20Developer-success?style=flat" />
 </p>
 
 ---
@@ -23,22 +24,20 @@ This GitHub profile represents my professional standards, technical discipline, 
 
 ## What This Profile Represents
 
-- Professional-grade website and web application development  
-- Practical solutions aligned with real business requirements  
+- Professional-grade development domain
 - Strong software engineering fundamentals  
-- A disciplined and growth-oriented professional mindset  
+- A disciplined and growth-oriented professional thinking  
 
 ---
 
 ## Work Philosophy
 
-As a freelance developer, I believe professionalism means:
-- Understanding the problem before writing code  
+As a freelance developer, I believe professionalism means: 
 - Delivering maintainable and scalable solutions  
 - Taking full ownership of quality and reliability  
 - Working with clarity, discipline, and intent  
 
-> “Good software is built with responsibility, not shortcuts.”
+> “You were looking for somthing awesome, and you're here✌️.”
 
 ---
 
@@ -46,20 +45,9 @@ As a freelance developer, I believe professionalism means:
 
 - 💼 Professional Website Developer  
 - 🚀 Actively building and delivering web projects  
-- 📈 Continuously improving engineering depth  
+- 📈 Continuously improving engineering depth
+- 🤖 Mastering AI to stay updated
 - 🤝 Open to freelance work, collaboration,   
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajittp&show_icons=true&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajittp&hide_border=true" />
-</p>
 
 ---
 
