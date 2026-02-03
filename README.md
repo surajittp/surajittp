@@ -7,7 +7,7 @@
   <a href="https://github.com/surajittp">
     <img src="https://img.shields.io/badge/GitHub-surajittp-black?style=flat&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Role-Freelancer-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Freelancer-blue?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Professional%20Web%20Development-success?style=flat" />
 </p>
 
