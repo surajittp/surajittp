@@ -1,16 +1,20 @@
-## Hi there 👋
+# Surajit Pal
 
+Self-Employed | Computer Science Engineer | Software Engineering Professional
 
-**surajittp/surajittp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a self-employed Computer Science Engineer with a strong focus on building well-structured, reliable, and maintainable software systems. I approach software engineering with discipline, clarity, and a deep respect for computer science fundamentals.
 
+This GitHub profile represents my professional mindset, engineering growth, and practical work. Each repository reflects my commitment to clean design, correctness, and continuous improvement.
+
+---
+
+## What This Profile Demonstrates
+
+- A professional approach to software engineering  
+- Strong emphasis on computer science fundamentals  
+- Practical problem-solving through real implementations  
+- Clean repository organization
