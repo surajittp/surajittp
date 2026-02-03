@@ -13,20 +13,13 @@
 </p>
 
 ---
-
+<p align= "center left">
 ## Professional Overview
+</p>
 
 I am a professional website developer working as a freelancer, focused on building clean, scalable, and reliable web solutions. I approach development with an engineering mindset — prioritizing structure, maintainability, performance, and long-term value.
 
 This GitHub profile represents my professional standards, technical discipline, and continuous growth as a software engineer. Each repository reflects clarity of thought, responsibility for code quality, and real-world problem solving.
-
----
-
-## What This Profile Represents
-
-- Professional-grade development domain
-- Strong software engineering fundamentals  
-- A disciplined and growth-oriented professional thinking  
 
 ---
 
