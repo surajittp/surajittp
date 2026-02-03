@@ -13,9 +13,8 @@
 </p>
 
 ---
-<p align= "center left">
+
 ## Professional Overview
-</p>
 
 I am a professional website developer working as a freelancer, focused on building clean, scalable, and reliable web solutions. I approach development with an engineering mindset — prioritizing structure, maintainability, performance, and long-term value.
 
