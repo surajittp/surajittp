@@ -1,63 +1,73 @@
-# Surajit Pal
+<h1 align="center">Surajit Pal</h1>
+<p align="center">
+  <strong>Professional Website Developer · Freelancer · Software Engineer</strong>
+</p>
 
-Professional Website Developer | Freelancer | Software Engineer
+<p align="center">
+  <a href="https://github.com/surajittp">
+    <img src="https://img.shields.io/badge/GitHub-surajittp-black?style=flat&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Freelancer-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Professional%20Web%20Development-success?style=flat" />
+</p>
 
 ---
 
 ## Professional Overview
 
-I am a professional website developer working as a freelancer, focused on building high-quality, reliable, and maintainable web solutions. I approach development with an engineering mindset — prioritizing clean architecture, performance, scalability, and long-term maintainability.
+I am a professional website developer working as a freelancer, focused on building clean, scalable, and reliable web solutions. I approach development with an engineering mindset — prioritizing structure, maintainability, performance, and long-term value.
 
-This GitHub profile represents my professional work, technical discipline, and continuous growth as a software engineer. Every repository reflects structured thinking, clarity, and responsibility for code quality.
+This GitHub profile represents my professional standards, technical discipline, and continuous growth as a software engineer. Each repository reflects clarity of thought, responsibility for code quality, and real-world problem solving.
 
 ---
 
 ## What This Profile Represents
 
-- Professional-grade website development work  
-- Clean, structured, and maintainable codebases  
-- Practical problem-solving for real-world requirements  
-- Strong understanding of software engineering principles  
-- A disciplined and growth-oriented engineering mindset  
+- Professional-grade website and web application development  
+- Practical solutions aligned with real business requirements  
+- Strong software engineering fundamentals  
+- A disciplined and growth-oriented professional mindset  
 
 ---
 
-## Professional Focus
+## Work Philosophy
 
-- Website and web application development  
-- Software design and system thinking  
-- Writing clean, readable, and maintainable code  
-- Performance, scalability, and reliability  
-- Translating business requirements into technical solutions  
-
----
-
-## Freelance & Work Philosophy
-
-As a freelancer, I believe professional development means:
+As a freelance developer, I believe professionalism means:
 - Understanding the problem before writing code  
-- Delivering clean and maintainable solutions  
-- Taking ownership of quality and reliability  
-- Communicating clearly and working with intent  
+- Delivering maintainable and scalable solutions  
+- Taking full ownership of quality and reliability  
+- Working with clarity, discipline, and intent  
 
-> “Professional software is built with clarity, responsibility, and discipline.”
+> “Good software is built with responsibility, not shortcuts.”
 
 ---
 
 ## Current Status
 
-- 💼 Professional Website Developer (Freelancer)  
+- 💼 Professional Website Developer  
 - 🚀 Actively building and delivering web projects  
-- 📈 Continuously improving engineering skills  
-- 🤝 Open to freelance work, collaborations, and hiring opportunities  
+- 📈 Continuously improving engineering depth  
+- 🤝 Open to freelance work, collaboration,   
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajittp&show_icons=true&hide_title=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajittp&hide_border=true" />
+</p>
 
 ---
 
 ## Contact & Professional Presence
 
-- GitHub: https://github.com/surajittp
+- GitHub: https://github.com/surajittp  
 
-(Additional professional links such as portfolio, LinkedIn, or email can be added here.)
+(Portfolio, LinkedIn, or email can be added here when needed.)
 
 ---
 
